@@ -1,5 +1,5 @@
 {
-  "uid" : "ef0a8b5503098ee0",
+  "uid" : "b6cd43892b690a73",
   "name" : "should login with valid credentials",
   "fullName" : "My Login application.should login with valid credentials",
   "historyId" : "3b494d47a0f895932c6a1a67a23e88e4",
@@ -72,6 +72,6 @@
     },
     "tags" : [ ]
   },
-  "source" : "ef0a8b5503098ee0.json",
+  "source" : "b6cd43892b690a73.json",
   "parameterValues" : [ "chrome-98.0.4758.102" ]
 }

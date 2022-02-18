@@ -1,12 +1,12 @@
 {
-  "uid" : "97041d7f624795da",
+  "uid" : "f25a030f46e5ba6",
   "name" : "should login with valid credentials",
   "fullName" : "My Login application.should login with valid credentials",
   "historyId" : "ad627aeea55a814bac5ae94a0249f570",
   "time" : {
-    "start" : 1645191737054,
-    "stop" : 1645191738571,
-    "duration" : 1517
+    "start" : 1645191877812,
+    "stop" : 1645191880246,
+    "duration" : 2434
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -53,6 +53,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "97041d7f624795da.json",
+  "source" : "f25a030f46e5ba6.json",
   "parameterValues" : [ "chrome-98.0.4758.80" ]
 }
