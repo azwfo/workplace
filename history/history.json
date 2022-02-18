@@ -1,4 +1,24 @@
 {
+  "674c6ee9404c76b9c852275aa465edde" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ed163fa573fee210",
+      "status" : "broken",
+      "statusDetails" : "Timeout of 60000ms exceeded. The execution in the test \"My Login application222222222222 should login with valid credentials\" took too long. Try to reduce the run time or increase your timeout for test specs (https://webdriver.io/docs/timeouts). (C:\\Users\\YurNah\\Desktop\\Allure\\test\\specs\\exampleeee.e2e.js)",
+      "time" : {
+        "start" : 1645192722156,
+        "stop" : 1645192782160,
+        "duration" : 60004
+      }
+    } ]
+  },
   "ad627aeea55a814bac5ae94a0249f570" : {
     "statistic" : {
       "failed" : 0,
@@ -9,12 +29,31 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "274dc6d4dc353d38",
+      "uid" : "2069006f3c0fa8f",
       "status" : "passed",
       "time" : {
-        "start" : 1645192483531,
-        "stop" : 1645192484599,
-        "duration" : 1068
+        "start" : 1645193006992,
+        "stop" : 1645193009947,
+        "duration" : 2955
+      }
+    } ]
+  },
+  "b4d4fa5d26de6664954823df025ab5ca" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5e98c0cf5433830a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1645193007000,
+        "stop" : 1645193009970,
+        "duration" : 2970
       }
     } ]
   },
@@ -28,12 +67,12 @@
       "total" : 2
     },
     "items" : [ {
-      "uid" : "bbe658cabba921de",
+      "uid" : "29333d9f198f7859",
       "status" : "passed",
       "time" : {
-        "start" : 1645192403841,
-        "stop" : 1645192406030,
-        "duration" : 2189
+        "start" : 1645192722250,
+        "stop" : 1645192724402,
+        "duration" : 2152
       }
     }, {
       "uid" : "416975979d78fd7c",

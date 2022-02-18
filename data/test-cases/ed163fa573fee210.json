@@ -1,0 +1,64 @@
+{
+  "uid" : "ed163fa573fee210",
+  "name" : "should login with valid credentials",
+  "fullName" : "My Login application222222222222.should login with valid credentials",
+  "historyId" : "674c6ee9404c76b9c852275aa465edde",
+  "time" : {
+    "start" : 1645192722156,
+    "stop" : 1645192782160,
+    "duration" : 60004
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Timeout of 60000ms exceeded. The execution in the test \"My Login application222222222222 should login with valid credentials\" took too long. Try to reduce the run time or increase your timeout for test specs (https://webdriver.io/docs/timeouts). (C:\\Users\\YurNah\\Desktop\\Allure\\test\\specs\\exampleeee.e2e.js)",
+  "statusTrace" : "Error: Timeout of 60000ms exceeded. The execution in the test \"My Login application222222222222 should login with valid credentials\" took too long. Try to reduce the run time or increase your timeout for test specs (https://webdriver.io/docs/timeouts). (C:\\Users\\YurNah\\Desktop\\Allure\\test\\specs\\exampleeee.e2e.js)\n                    at createTimeoutError (C:\\Users\\YurNah\\Desktop\\Allure\\node_modules\\mocha\\lib\\errors.js:498:15)\n                    at Test.Runnable._timeoutError (C:\\Users\\YurNah\\Desktop\\Allure\\node_modules\\mocha\\lib\\runnable.js:431:10)\n                    at Timeout.<anonymous> (C:\\Users\\YurNah\\Desktop\\Allure\\node_modules\\mocha\\lib\\runnable.js:246:24)\n                    at listOnTimeout (internal/timers.js:555:17)\n                    at processTimers (internal/timers.js:498:7)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "My Login application222222222222"
+  }, {
+    "name" : "testClass",
+    "value" : "My Login application222222222222"
+  }, {
+    "name" : "testMethod",
+    "value" : "should login with valid credentials"
+  }, {
+    "name" : "package",
+    "value" : "My Login application222222222222"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-98.0.4758.102"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "ed163fa573fee210.json",
+  "parameterValues" : [ "chrome-98.0.4758.102" ]
+}

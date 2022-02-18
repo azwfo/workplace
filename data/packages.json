@@ -1,29 +1,59 @@
 {
   "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
   "children" : [ {
-    "name" : "My Login application",
+    "name" : "My Login application222222222222",
     "children" : [ {
       "name" : "should login with valid credentials",
-      "uid" : "bbe658cabba921de",
-      "parentUid" : "f43874cc36d1c5833cbb332fc53460ce",
-      "status" : "passed",
+      "uid" : "ed163fa573fee210",
+      "parentUid" : "ec0174cb12fbe5bd4156468bb50fa5c4",
+      "status" : "broken",
       "time" : {
-        "start" : 1645192403841,
-        "stop" : 1645192406030,
-        "duration" : 2189
+        "start" : 1645192722156,
+        "stop" : 1645192782160,
+        "duration" : 60004
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-98.0.4758.102" ]
     }, {
       "name" : "should login with valid credentials",
-      "uid" : "274dc6d4dc353d38",
+      "uid" : "5e98c0cf5433830a",
+      "parentUid" : "ec0174cb12fbe5bd4156468bb50fa5c4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1645193007000,
+        "stop" : 1645193009970,
+        "duration" : 2970
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-98.0.4758.80" ]
+    } ],
+    "uid" : "ec0174cb12fbe5bd4156468bb50fa5c4"
+  }, {
+    "name" : "My Login application",
+    "children" : [ {
+      "name" : "should login with valid credentials",
+      "uid" : "29333d9f198f7859",
       "parentUid" : "f43874cc36d1c5833cbb332fc53460ce",
       "status" : "passed",
       "time" : {
-        "start" : 1645192483531,
-        "stop" : 1645192484599,
-        "duration" : 1068
+        "start" : 1645192722250,
+        "stop" : 1645192724402,
+        "duration" : 2152
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-98.0.4758.102" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "2069006f3c0fa8f",
+      "parentUid" : "f43874cc36d1c5833cbb332fc53460ce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1645193006992,
+        "stop" : 1645193009947,
+        "duration" : 2955
       },
       "flaky" : false,
       "newFailed" : false,
